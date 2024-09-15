@@ -1,1 +1,1 @@
-This is Team Advitya. Here we are learning machine learning 
+This is Team Advitya. Here we are learning AI/ML
